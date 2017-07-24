@@ -17,7 +17,8 @@ KP_liberation_medical_vehicles = [
 	"RHS_UH60M_MEV_d",
 	"RHS_UH60M_MEV2_d",
 	"UK3CB_BAF_LandRover_Amb_FFR_Green_A_MTP",
-	"UK3CB_BAF_LandRover_Amb_FFR_Sand_A_DDPM"
+	"UK3CB_BAF_LandRover_Amb_FFR_Sand_A_DDPM",
+	"sfp_patgb203_ambulance"
 ];
 
 // Classnames of ACE3 crates (which have to be in the unit preset as well).
@@ -481,7 +482,11 @@ boats_names = [
 	"O_Boat_Armed_01_hmg_F",
 	"O_T_Boat_Transport_01_F",
 	"O_T_Boat_Armed_01_hmg_F",
-	"rhsusf_mkvsoc"
+	"rhsusf_mkvsoc",
+	"sfp_gruppbat",
+	"sfp_strb90",
+	"sfp_strb90_rws",
+	"sfp_rbb_norrkoping"
 ];
 
 // Large storage area placement position offsets.
