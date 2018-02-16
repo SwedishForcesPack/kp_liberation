@@ -9,6 +9,9 @@ GRLIB_arsenal_weapons = [
 	"sfp_ak4b",
 	"sfp_ak4c",
 	"sfp_ak4d",
+	"sfp_ak5",
+	"sfp_ak5_m203",
+	"sfp_ak5b",
 	"sfp_ak5c",
 	"sfp_ak5c_alt",
 	"sfp_ak5c_alt_plastic",
@@ -18,6 +21,7 @@ GRLIB_arsenal_weapons = [
 	"sfp_ak5dmk2",
 	"sfp_ak5dmk2_plastic",
 	"sfp_grg86",
+	"sfp_kpistm45",
 	"sfp_ksp58B2",
 	"sfp_ksp58c",
 	"sfp_ksp90c",
@@ -26,7 +30,12 @@ GRLIB_arsenal_weapons = [
 	"sfp_pskott86",
 	"sfp_rb57",
 	"sfp_p88",
-	"sfp_p226"
+	"sfp_p226",
+	"sfp_rbs69",
+	"sfp_cbj_ms",
+	"sfp_cga5p",
+	"sfp_remington870",
+	"sfp_g36c"
 ];
 
 GRLIB_arsenal_magazines = [
@@ -59,6 +68,11 @@ GRLIB_arsenal_magazines = [
 	"sfp_rb57_mag",
 	"sfp_sprdeg46_mag",
 	"sfp_strvm5_mag",
+	"sfp_rbs69_mag",
+	"sfp_30Rnd_650x25mag",
+	"sfp_36Rnd_9mm_kpistm45",
+	"sfp_12Gauge_8rd_Pellets",
+	"sfp_12Gauge_8rd_Slug",
 	"SmokeShell"
 ];
 
@@ -85,6 +99,7 @@ GRLIB_arsenal_items = [
 	"sfp_tlr2",
 	"sfp_m87_flying_suit",
 	"sfp_flighthelmet116",
+	"sfp_m37w_helmet_dok_camo",
 	"sfp_m90w_uniform",
 	"sfp_m90w_uniform_dirty",
 	"sfp_m90w_uniform_tshirt",
@@ -94,6 +109,7 @@ GRLIB_arsenal_items = [
 	"sfp_optic_aimpoint_t1",
 	"sfp_optic_aimpoint_twist",
 	"sfp_optic_kikarsikte90b_10x",
+	"sfp_optic_susat_4x",
 	"sfp_stridsvast08",
 	"sfp_kroppsskydd12",
 	"sfp_kroppsskydd12_crew",
@@ -110,7 +126,8 @@ GRLIB_arsenal_items = [
 	"sfp_m90w_helmet_headset_nvg",
 	"sfp_m90w_helmet_peltor",
 	"sfp_m90w_helmet_nvg",
-	"sfp_m90w_helmet_peltor_nvg"
+	"sfp_m90w_helmet_peltor_nvg",
+	"G_Aviator"
 ];
 
 GRLIB_arsenal_backpacks = [

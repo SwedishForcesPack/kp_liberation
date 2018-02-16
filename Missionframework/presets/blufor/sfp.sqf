@@ -111,17 +111,20 @@ air_vehicles = [
 ];
 
 static_vehicles = [
-//	["RHS_M2StaticMG_MiniTripod_WD",25,40,0],							//Mk2 HMG .50
+	["sfp_ksp88",25,40,0],												//Mk2 HMG .50
 //	["RHS_M2StaticMG_WD",25,40,0],										//Mk2 HMG .50 (Raised)
-//	["RHS_MK19_TriPod_WD",25,60,0],										//Mk19 GMG 20mm
+	["sfp_grsp",25,60,0],												//Mk19 GMG 20mm
+	["sfp_rbs17",30,60,0],												//TOW (AT)
 	["sfp_rbs55",50,100,0],												//TOW (AT)
 	["sfp_rbs56",50,100,0],												//TOW (AT)
 	["sfp_rbs70",50,100,0],												//Stinger (AA)
-	["sfp_lvakan40L70",50,100,0],										//Stinger (AA)
+	["sfp_rbs97",75,130,0],												//Stinger (AA)
+//	["sfp_lvakan40L70",50,100,0],										//Stinger (AA)
 	["sfp_grk84",80,150,0],												//Mk6 Mortar
 	["sfp_fh77",100,200,0]												//M119A2
 ];
 
+	
 buildings = [
 	["Land_Cargo_House_V1_F",0,0,0],
 	["Land_Cargo_Patrol_V1_F",0,0,0],
