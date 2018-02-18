@@ -90,7 +90,7 @@ light_vehicles = [
 
 heavy_vehicles = [
 	["sfp_ikv91",200,40,100],											//M113A3 (M2)
-	["sfp_strv103c",200,60,100],											//M113A3 (Mk19)
+	["sfp_strv103c",200,60,100]											//M113A3 (Mk19)
 //	["sfp_strv122",400,350,225],										//M1A1SA (Tusk I)
 //	["sfp_archer",600,1250,300]											//M109A6
 ];
@@ -104,7 +104,7 @@ air_vehicles = [
 	["sfp_hkp4",225,0,125],												//UH-1Y (Unarmed)
 	["sfp_hkp6",225,200,125],											//UH-1Y (Ground Suppression)
 //	["sfp_hkp16",250,0,150],											//UH-60M (Unarmed)
-	["sfp_tp84",500,0,250],												//UH-60M (Unarmed)
+	["sfp_tp84",500,0,250]												//UH-60M (Unarmed)
 //	["sfp_jas39_bk90",1000,1000,400],									//A-10A (CAS)
 //	["sfp_jas39_cap",1250,1250,450],									//F-15C Eagle
 //	["sfp_jas39_gbu39",1250,1250,450],									//F-15D Eagle
