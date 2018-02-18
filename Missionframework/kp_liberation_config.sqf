@@ -18,7 +18,8 @@ KP_liberation_medical_vehicles = [
 	"RHS_UH60M_MEV2_d",
 	"UK3CB_BAF_LandRover_Amb_FFR_Green_A_MTP",
 	"UK3CB_BAF_LandRover_Amb_FFR_Sand_A_DDPM",
-	"sfp_patgb203_ambulance"
+	"sfp_patgb203_ambulance",
+	"sfp_tgb1314"
 ];
 
 // Classnames of ACE3 crates (which have to be in the unit preset as well).
@@ -43,8 +44,8 @@ If you want to change a preset, it's recommended to set all four presets to 0 an
 7 = RHS USAF (Desert)
 8 = RHS AFRF (VDV/MSV)
 9 = SFP (Woodland)
-*/
-KP_liberation_preset_blufor = 0;
+10 = SFP (Woodland 1990) */
+KP_liberation_preset_blufor = 10;
 
 /* OPFOR preset:
 0 = Custom (default vanilla CSAT)
@@ -75,8 +76,10 @@ KP_liberation_preset_civilians = 0;
 3 = RHS USAF arsenal preset.
 4 = RHS USAF arsenal preset with ACE.
 5 = RHS USAF arsenal preset with ACE and ACRE.	
-6 = 3cbBAF and RHS USAF arsenal preset. */
-KP_liberation_arsenal = 0;
+6 = 3cbBAF and RHS USAF arsenal preset. 
+7 = SFP (Woodland)
+8 = SFP (1990) */
+KP_liberation_arsenal = 8;
 
 /* - Fuel consumption settings.
 Time in minutes till a full tank depletes whilst the vehicle is standing still with a running engine.	*/
@@ -487,7 +490,6 @@ boats_names = [
 	"rhsusf_mkvsoc",
 	"sfp_gruppbat",
 	"sfp_strb90",
-	"sfp_strb90_rws",
 	"sfp_rbb_norrkoping"
 ];
 

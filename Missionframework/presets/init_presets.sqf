@@ -8,6 +8,7 @@ switch (KP_liberation_preset_blufor) do {
 	case 7: {[] call compileFinal preprocessFileLineNumbers "presets\blufor\rhs_usaf_des.sqf";};
 	case 8: {[] call compileFinal preprocessFileLineNumbers "presets\blufor\rhs_afrf.sqf";};
 	case 9: {[] call compileFinal preprocessFileLineNumbers "presets\blufor\sfp.sqf";};
+	case 10: {[] call compileFinal preprocessFileLineNumbers "presets\blufor\sfp_1990.sqf";};
 	default {[] call compileFinal preprocessFileLineNumbers "presets\blufor\custom.sqf";};
 };
 
