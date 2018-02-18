@@ -307,7 +307,7 @@ elite_vehicles = [
 //	"sfp_jas39_cap",													//MQ-12 Falcon
 //	"sfp_jas39_gbu39",													//UCAV Sentinel
 //	"sfp_jas39_rb15",													//A-10A (CAS)
-	"sfp_rbb_norrkoping",												//F-15C Eagle
+	"sfp_rbb_norrkoping"												//F-15C Eagle
 //	"sfp_strb90_rws",													//F-15D Eagle
 //	"sfp_uav01",														//F-15E Strike Eagle
 //	"sfp_uav03"															//F/A-18 E Super Hornet
